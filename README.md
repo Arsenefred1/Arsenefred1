@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently working on Data Science techniques in a data science course!
 <!--
 **Arsenefred1/Arsenefred1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
